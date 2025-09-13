@@ -1,7 +1,8 @@
 ﻿//Kyson Hensley
 //RCET2265
 //Fall 2025
-//Hello World Program
+//Say My Name Again Program
+//https://github.com/kysonhensley/SayMyNameAgain.git
 
 
 using System.ComponentModel.Design;
