@@ -2,7 +2,7 @@
 //RCET2265
 //Spring 2026
 //SayMyNameAgain Program
-//https://github.com/kysonhensley/SimpleCalculator.git
+//https://github.com/kysonhensley/SayMyNameAgain.git
 
 namespace SayMyNameAgain
 {
