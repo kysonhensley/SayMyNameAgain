@@ -1,4 +1,8 @@
-﻿
+﻿//Kyson Hensley
+//RCET2265
+//Spring 2026
+//SayMyNameAgain Program
+//https://github.com/kysonhensley/SimpleCalculator.git
 
 namespace SayMyNameAgain
 {
